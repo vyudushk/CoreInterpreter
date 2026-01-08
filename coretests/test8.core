@@ -1,0 +1,1 @@
+program int X, Y; begin X = 5; Y = 10; if [(X < 10) && (Y > 5)] then write X, Y; end; end

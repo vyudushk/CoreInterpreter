@@ -1,0 +1,1 @@
+program int X, Y; begin X = 3; if (X > 5) then Y = 1; else Y = 2; end; write Y; end

@@ -1,0 +1,1 @@
+program int X, Y, Z; begin X = 5; Y = 3; Z = X + Y * 2; write Z; end
